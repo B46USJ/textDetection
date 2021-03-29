@@ -1,2 +1,4 @@
 - berisi kode program yang dapat dikelola bersama
 - setiap user dapat mengupdate / menggabungkan kode program didalam direktori ini
+- Sekarang saya sedang menambahkan isi / tulisan ke dalam file contoh.txt
+- sangat memudahkan
