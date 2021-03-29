@@ -1,0 +1,2 @@
+- berisi kode program yang dapat dikelola bersama
+- setiap user dapat mengupdate / menggabungkan kode program didalam direktori ini
